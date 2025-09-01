@@ -1,0 +1,17 @@
+body{ 
+    background-color: rgb(99, 3, 3);
+}
+nav{
+    background-color: rgb(204, 171, 81);
+    text-align: center;
+    padding: 20px;
+}
+a{
+    font-size: large;
+    color: rgb(15, 9, 1);
+    text-decoration: none;
+}
+a:hover{
+    color: darkorange;
+text-decoration: underline;
+}
