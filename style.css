@@ -53,6 +53,14 @@ section p{
     padding: 40px;
     line-height: 30px;
 }
+table{
+    width: 60%;
+    border:1px solid #a8849f;
+}
+tr:hover{
+    background-color: burlywood;
+    color: aqua;
+}
 footer{
     margin:0px 20%;
     background-color: #892143;
